@@ -6,7 +6,7 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server --port 80"
+    "server": "hexo server --port 8080"
   },
   "hexo": {
     "version": "6.3.0"
